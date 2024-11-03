@@ -1,0 +1,16 @@
+[
+    {
+        "usuario": "01",
+        "tipo": "Deposito",
+        "valor": 500.0,
+        "saldo_atual": 500.0,
+        "data": "03/11/2024 16:09:29"
+    },
+    {
+        "usuario": "01",
+        "tipo": "Saque",
+        "valor": 100.0,
+        "saldo_atual": 400.0,
+        "data": "03/11/2024 16:10:07"
+    }
+]
